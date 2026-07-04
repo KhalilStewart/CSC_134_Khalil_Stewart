@@ -19,4 +19,7 @@ int main(){
     for ( int i = 0; i <= 12; i++){
         cout << num << " x " << i << " = " << num * i << endl;
     }
+
+    //end of program
+    return 0;
 }
